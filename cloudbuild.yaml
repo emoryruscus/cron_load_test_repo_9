@@ -1,0 +1,4 @@
+steps:
+# print hello world
+- name: 'ubuntu'
+  args: ['echo', 'HELLO WORLD!']
